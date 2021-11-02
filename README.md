@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Pratik29121/Pratik29121/blob/main/7j8s2h4erdejm82dyyn7.jpg"
+<img align="center" src="https://github.com/Pratik29121/Pratik29121/blob/main/7j8s2h4erdejm82dyyn7.jpg">
 <h1 align="center">Hi 👋, I'm Pratik Suryawanshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
